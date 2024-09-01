@@ -31,11 +31,16 @@ function App() {
   return (
     <ArweaveWalletKit gate>
       {!walletConnected ? (
-        <ConnectButton
-          accent="rgb(255, 0, 0)"
-          profileModal={true}
-          showBalance={true}
-        />
+        <div className="appContainer">
+          <div>
+            <h1>Registree 🌳</h1>
+          </div>
+          <ConnectButton
+            accent="rgb(82, 183, 136)"
+            profileModal={true}
+            showBalance={true}
+          />
+        </div>
       ) : (
         <Home />
       )}

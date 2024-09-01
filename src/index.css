@@ -136,3 +136,7 @@ button:focus-visible {
     transform: rotate(360deg);
   }
 }
+
+.appContainer {
+  text-align: center;
+}
