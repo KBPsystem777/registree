@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "farmName": "Tunga Farm #001",
+      "owner": "0-I2VTIEJjbGmZSDVXuDMfyG7_DkmYg4s5qJLkVO33c",
+      "id": 1,
+      "location": "Tunga, Leyte",
+      "metadata": "PI5JlqG4fdnMHjQomGvGPP1vER3nQba6ZCFlmMSNwlY",
+      "isListed": true,
+      "availableShares": 416,
+      "image": "https://i.ibb.co/d0tWxdf/Screenshot-2024-08-29-204940.png"
+    },
+    {
+      "farmName": "Tunga Farm #002",
+      "owner": "0-I2VTIEJjbGmZSDVXuDMfyG7_DkmYg4s5qJLkVO33c",
+      "id": 2,
+      "location": "Tunga, Leyte",
+      "metadata": "PI5JlqG4fdnMHjQomGvGPP1vER3nQba6ZCFlmMSNwlY",
+      "isListed": true,
+      "availableShares": 500,
+      "image": "https://i.ibb.co/d0tWxdf/Screenshot-2024-08-29-204940.png"
+    },
+    {
+      "farmName": "KBPs Farm #001",
+      "owner": "oOGBS7vsddlTYYKGjAnCS2lnqgn651goAzJHrwj8Wv4",
+      "id": 1,
+      "location": "Cotabato City",
+      "metadata": "PI5JlqG4fdnMHjQomGvGPP1vER3nQba6ZCFlmMSNwlY",
+      "isListed": true,
+      "availableShares": 77,
+      "image": "https://i.ibb.co/d0tWxdf/Screenshot-2024-08-29-204940.png"
+    }
+  ]
+}
